@@ -1,4 +1,4 @@
-package com.gledson.bookstoragemanager.controllers;
+package com.gledson.bookstoragemanager.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
